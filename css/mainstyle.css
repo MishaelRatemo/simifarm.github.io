@@ -103,7 +103,7 @@ body{
 .img>img:hover{
     border-radius: 60px;
     border: 10px darkgreen  outset ;
-    zoom: 20%;
+    /*zoom: 20%;*/
     transition: 0.9s;
 
 }
